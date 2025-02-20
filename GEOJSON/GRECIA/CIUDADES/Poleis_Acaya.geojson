@@ -16,6 +16,6 @@
 { "type": "Feature", "properties": { "name": "Pharai", "lat": 38.093143579290398, "lon": 21.717095375061, "Nota": "Acaya" }, "bbox": [ 21.717095375061, 38.093143579290398, 21.717095375061, 38.093143579290398 ], "geometry": { "type": "Point", "coordinates": [ 21.717095375061, 38.093143579290398 ] } },
 { "type": "Feature", "properties": { "name": "Phelloe", "lat": 38.077546421974503, "lon": 22.413933277130099, "Nota": "Acaya" }, "bbox": [ 22.413933277130099, 38.077546421974503, 22.413933277130099, 38.077546421974503 ], "geometry": { "type": "Point", "coordinates": [ 22.413933277130099, 38.077546421974503 ] } },
 { "type": "Feature", "properties": { "name": "Rhypes", "lat": 38.2139318676169, "lon": 22.018940448761001, "Nota": "Acaya" }, "bbox": [ 22.018940448761001, 38.2139318676169, 22.018940448761001, 38.2139318676169 ], "geometry": { "type": "Point", "coordinates": [ 22.018940448761001, 38.2139318676169 ] } },
-{ "type": "Feature", "properties": { "name": "Aigeira", "lat": null, "lon": null, "Nota": "Acaya" }, "geometry": { "type": "Point", "coordinates": [ 22.3782, 38.12855 ] } }
+{ "type": "Feature", "properties": { "name": "Aigeira", "lat": 38.12887, "lon": 22.37949, "Nota": "Acaya" }, "geometry": { "type": "Point", "coordinates": [ 22.3782, 38.12855 ] } }
 ]
 }
