@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis_Macedonia1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 40.754359645699999, "lon": 22.518224765500001, "osm_type": "node", "name": "Pella", "GEOlayersDisplayName": "40.7543596457,22.5182247655", "GEOlayersRenamed": "Pella" }, "geometry": { "type": "Point", "coordinates": [ 22.518224765500001, 40.754359645699999 ] } },
+{ "type": "Feature", "properties": { "lat": 40.480092, "lon": 22.321872, "osm_type": "node", "name": "Aigeai", "GEOlayersDisplayName": "40.480092,22.321872", "GEOlayersRenamed": "Aigeai" }, "geometry": { "type": "Point", "coordinates": [ 22.321872, 40.480092 ] } },
+{ "type": "Feature", "properties": { "lat": 40.522126666699997, "lon": 22.201492666699998, "osm_type": "node", "name": "Beroia", "GEOlayersDisplayName": "40.5221266667,22.2014926667", "GEOlayersRenamed": "Beroia" }, "geometry": { "type": "Point", "coordinates": [ 22.201492666699998, 40.522126666699997 ] } },
+{ "type": "Feature", "properties": { "lat": 40.644802, "lon": 22.122616, "osm_type": "node", "name": "Mieza", "GEOlayersDisplayName": "40.644802,22.122616", "GEOlayersRenamed": "Mieza" }, "geometry": { "type": "Point", "coordinates": [ 22.122616, 40.644802 ] } },
+{ "type": "Feature", "properties": { "lat": 40.397365285500001, "lon": 22.6167701197, "osm_type": "node", "name": "Pydna", "GEOlayersDisplayName": "40.3973652855,22.6167701197", "GEOlayersRenamed": "Pydna" }, "geometry": { "type": "Point", "coordinates": [ 22.6167701197, 40.397365285500001 ] } },
+{ "type": "Feature", "properties": { "lat": 40.799718, "lon": 22.053972, "osm_type": "node", "name": "Edessa", "GEOlayersDisplayName": "40.799718,22.053972", "GEOlayersRenamed": "Edessa" }, "geometry": { "type": "Point", "coordinates": [ 22.053972, 40.799718 ] } }
+]
+}
