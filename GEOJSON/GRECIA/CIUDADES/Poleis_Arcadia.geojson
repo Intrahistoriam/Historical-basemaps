@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"properties": { "GEOlayersSrcRequireType": "geojson", "lat": 37.682889555711299, "lon": 22.117152714050249, "GEOlayersRenamed": "Polis Arcadia" },
+"name": "Poleis_Arcadia",
+"bbox": [ 21.813633441925, 37.414271211, 22.4206709861755, 37.9104816746506 ],                                                     
+"features": [
+{ "type": "Feature", "properties": { "name": "Alipheira", "lat": 37.5296551218159, "lon": 21.865496635437001, "nota": "Arcadia" }, "bbox": [ 21.865496635437001, 37.5296551218159, 21.865496635437001, 37.5296551218159 ], "geometry": { "type": "Point", "coordinates": [ 21.865496635437001, 37.5296551218159 ] } },
+{ "type": "Feature", "properties": { "name": "Ephyra", "lat": 37.606548176150604, "lon": 21.821551322937001, "nota": "Arcadia" }, "bbox": [ 21.821551322937001, 37.606548176150604, 21.821551322937001, 37.606548176150604 ], "geometry": { "type": "Point", "coordinates": [ 21.821551322937001, 37.606548176150604 ] } },
+{ "type": "Feature", "properties": { "name": "Heraia", "lat": 37.613458027930903, "lon": 21.863780021667498, "nota": "Arcadia" }, "bbox": [ 21.863780021667498, 37.613458027930903, 21.863780021667498, 37.613458027930903 ], "geometry": { "type": "Point", "coordinates": [ 21.863780021667498, 37.613458027930903 ] } },
+{ "type": "Feature", "properties": { "name": "Mantinea", "lat": 37.617375875140603, "lon": 22.3925828933716, "nota": "Arcadia" }, "bbox": [ 22.3925828933716, 37.617375875140603, 22.3925828933716, 37.617375875140603 ], "geometry": { "type": "Point", "coordinates": [ 22.3925828933716, 37.617375875140603 ] } },
+{ "type": "Feature", "properties": { "name": "Orchomenos", "lat": 37.724717526136899, "lon": 22.315356731414798, "nota": "Arcadia" }, "bbox": [ 22.315356731414798, 37.724717526136899, 22.315356731414798, 37.724717526136899 ], "geometry": { "type": "Point", "coordinates": [ 22.315356731414798, 37.724717526136899 ] } },
+{ "type": "Feature", "properties": { "name": "Pheneos", "lat": 37.910481674650597, "lon": 22.307095527648901, "nota": "Arcadia" }, "bbox": [ 22.307095527648901, 37.910481674650597, 22.307095527648901, 37.910481674650597 ], "geometry": { "type": "Point", "coordinates": [ 22.307095527648901, 37.910481674650597 ] } },
+{ "type": "Feature", "properties": { "name": "Psophis", "lat": 37.871719854049097, "lon": 21.8928980827332, "nota": "Arcadia" }, "bbox": [ 21.8928980827332, 37.871719854049097, 21.8928980827332, 37.871719854049097 ], "geometry": { "type": "Point", "coordinates": [ 21.8928980827332, 37.871719854049097 ] } },
+{ "type": "Feature", "properties": { "name": "Tegea", "lat": 37.455297436772, "lon": 22.420670986175502, "nota": "Arcadia" }, "bbox": [ 22.420670986175502, 37.455297436772, 22.420670986175502, 37.455297436772 ], "geometry": { "type": "Point", "coordinates": [ 22.420670986175502, 37.455297436772 ] } },
+{ "type": "Feature", "properties": { "name": "Thelpousa", "lat": 37.710485008937503, "lon": 21.878843307495099, "nota": "Arcadia" }, "bbox": [ 21.878843307495099, 37.710485008937503, 21.878843307495099, 37.710485008937503 ], "geometry": { "type": "Point", "coordinates": [ 21.878843307495099, 37.710485008937503 ] } },
+{ "type": "Feature", "properties": { "name": "Thyraion", "lat": 37.5014274988228, "lon": 22.124683856964101, "nota": "Arcadia" }, "bbox": [ 22.124683856964101, 37.5014274988228, 22.124683856964101, 37.5014274988228 ], "geometry": { "type": "Point", "coordinates": [ 22.124683856964101, 37.5014274988228 ] } },
+{ "type": "Feature", "properties": { "name": "Typaneai", "lat": 37.505010794412598, "lon": 21.813633441924999, "nota": "Arcadia" }, "bbox": [ 21.813633441924999, 37.505010794412598, 21.813633441924999, 37.505010794412598 ], "geometry": { "type": "Point", "coordinates": [ 21.813633441924999, 37.505010794412598 ] } },
+{ "type": "Feature", "properties": { "name": "Megalopolis", "lat": null, "lon": null, "nota": "Arcadia. Fundada por Epanimondas 370 a.C." }, "geometry": { "type": "Point", "coordinates": [ 22.126396162100001, 37.414271211 ] } }
+]
+}
