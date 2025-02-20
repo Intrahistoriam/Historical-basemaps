@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"properties": { "GEOlayersRenamed": "Poleis Elide", "GEOlayersSrcRequireType": "geojson" },
+"name": "Poleis_Elide",
+"bbox": [ 21.1438751220703, 37.4400321, 21.743462, 38.01258 ],                                                                     
+"features": [
+{ "type": "Feature", "properties": { "lat": 37.744028064299997, "lon": 21.685817408199998, "name": "Akroreia" }, "bbox": [ 21.685817408199998, 37.744028064299997, 21.685817408199998, 37.744028064299997 ], "geometry": { "type": "Point", "coordinates": [ 21.685817408199998, 37.744028064299997 ] } },
+{ "type": "Feature", "properties": { "lat": 38.01258, "lon": 21.407812, "name": "Myrsinos", "nota": "Élide" }, "bbox": [ 21.407812, 38.01258, 21.407812, 38.01258 ], "geometry": { "type": "Point", "coordinates": [ 21.407812, 38.01258 ] } },
+{ "type": "Feature", "properties": { "lat": 37.798028, "lon": 21.743462, "name": "Lasion", "nota": "Élide" }, "bbox": [ 21.743462, 37.798028, 21.743462, 37.798028 ], "geometry": { "type": "Point", "coordinates": [ 21.743462, 37.798028 ] } },
+{ "type": "Feature", "properties": { "lat": 37.660717, "lon": 21.311251, "name": "Pheia", "nota": "Élide" }, "bbox": [ 21.311251, 37.660717, 21.311251, 37.660717 ], "geometry": { "type": "Point", "coordinates": [ 21.311251, 37.660717 ] } },
+{ "type": "Feature", "properties": { "lat": 37.638244917790402, "lon": 21.630556583404498, "name": "Olimpia", "nota": "Élide" }, "bbox": [ 21.630556583404498, 37.638244917790402, 21.630556583404498, 37.638244917790402 ], "geometry": { "type": "Point", "coordinates": [ 21.630556583404498, 37.638244917790402 ] } },
+{ "type": "Feature", "properties": { "lat": 37.899730659354503, "lon": 21.5180325508118, "name": "Pylos", "nota": "Élide" }, "bbox": [ 21.5180325508118, 37.899730659354503, 21.5180325508118, 37.899730659354503 ], "geometry": { "type": "Point", "coordinates": [ 21.5180325508118, 37.899730659354503 ] } },
+{ "type": "Feature", "properties": { "lat": 37.9332398606808, "lon": 21.143875122070298, "name": "Kyllene", "nota": "Élide" }, "bbox": [ 21.143875122070298, 37.9332398606808, 21.143875122070298, 37.9332398606808 ], "geometry": { "type": "Point", "coordinates": [ 21.143875122070298, 37.9332398606808 ] } },
+{ "type": "Feature", "properties": { "lat": 37.891272654654202, "lon": 21.374351978301998, "name": "Elis", "nota": "Élide" }, "bbox": [ 21.374351978301998, 37.891272654654202, 21.374351978301998, 37.891272654654202 ], "geometry": { "type": "Point", "coordinates": [ 21.374351978301998, 37.891272654654202 ] } },
+{ "type": "Feature", "properties": { "lat": 37.4400321, "lon": 21.7251305, "name": "Lépreon", "nota": "Élide" }, "geometry": { "type": "Point", "coordinates": [ 21.7251305, 37.4400321 ] } }
+]
+}
