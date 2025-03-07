@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Picenas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 43.446874724332503, "lon": 13.116409778594999, "name": "Cupra Montana", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.116409778594999, 43.446874724332503 ] } },
+{ "type": "Feature", "properties": { "lat": 43.374219597493401, "lon": 13.2034420967102, "name": "Cingulum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.2034420967102, 43.374219597493401 ] } },
+{ "type": "Feature", "properties": { "lat": 43.209594138815199, "lon": 13.288156986236601, "name": "Tolentinum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.288156986236601, 43.209594138815199 ] } },
+{ "type": "Feature", "properties": { "lat": 43.161076737809999, "lon": 13.7168169021606, "name": "Firmum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.7168169021606, 43.161076737809999 ] } },
+{ "type": "Feature", "properties": { "lat": 43.105494901308099, "lon": 13.470268249511699, "name": "Falerio", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.470268249511699, 43.105494901308099 ] } },
+{ "type": "Feature", "properties": { "lat": 43.414649736860497, "lon": 13.6712622642517, "name": "Potentia", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.6712622642517, 43.414649736860497 ] } },
+{ "type": "Feature", "properties": { "lat": 43.486119890617601, "lon": 13.4824347496033, "name": "Auximun", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.4824347496033, 43.486119890617601 ] } },
+{ "type": "Feature", "properties": { "lat": 42.580198895143504, "lon": 13.98108959198, "name": "Hatria", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.98108959198, 42.580198895143504 ] } },
+{ "type": "Feature", "properties": { "lat": 42.8553926474086, "lon": 13.574960231781001, "name": "Asculum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.574960231781001, 42.8553926474086 ] } },
+{ "type": "Feature", "properties": { "lat": 43.5112732232461, "lon": 13.621416091918899, "name": "Numana", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.621416091918899, 43.5112732232461 ] } },
+{ "type": "Feature", "properties": { "lat": 43.275393124268902, "lon": 13.5023474693298, "name": "Pausulae", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.5023474693298, 43.275393124268902 ] } },
+{ "type": "Feature", "properties": { "lat": 43.318254321041401, "lon": 13.2918691635132, "name": "Trea", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.2918691635132, 43.318254321041401 ] } },
+{ "type": "Feature", "properties": { "lat": 43.485372601683402, "lon": 13.161427974700899, "name": "Planina", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.161427974700899, 43.485372601683402 ] } },
+{ "type": "Feature", "properties": { "lat": 43.326762058189701, "lon": 13.422739505767799, "name": "Ricina", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.422739505767799, 43.326762058189701 ] } },
+{ "type": "Feature", "properties": { "lat": 42.772360984412103, "lon": 13.2965898513794, "name": "Surpicanum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.2965898513794, 42.772360984412103 ] } },
+{ "type": "Feature", "properties": { "lat": 43.229281103561298, "lon": 13.1813192367554, "name": "Septempeda", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.1813192367554, 43.229281103561298 ] } },
+{ "type": "Feature", "properties": { "lat": 42.9137077767516, "lon": 13.9043569564819, "name": "Truentum", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.9043569564819, 42.9137077767516 ] } },
+{ "type": "Feature", "properties": { "lat": 43.022541202345302, "lon": 13.8571286201477, "name": "Cupra Maritima", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.8571286201477, 43.022541202345302 ] } },
+{ "type": "Feature", "properties": { "lat": 42.661255172083301, "lon": 13.698513507843, "name": "Interamnia", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.698513507843, 42.661255172083301 ] } },
+{ "type": "Feature", "properties": { "lat": 43.618990033368398, "lon": 13.5160803794861, "name": "Ancona", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.5160803794861, 43.618990033368398 ] } }
+]
+}
