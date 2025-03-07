@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Ecuas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 42.149659886358599, "lon": 13.2939291000366, "name": "Tora", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.2939291000366, 42.149659886358599 ] } },
+{ "type": "Feature", "properties": { "lat": 42.329687307743498, "lon": 13.0229187011719, "name": "Cliternia", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.0229187011719, 42.329687307743498 ] } },
+{ "type": "Feature", "properties": { "lat": 42.208478442441901, "lon": 13.177456855773899, "name": "Nersae", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.177456855773899, 42.208478442441901 ] } },
+{ "type": "Feature", "properties": { "lat": 42.082004269122201, "lon": 13.043925762176499, "name": "Carsioli", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.043925762176499, 42.082004269122201 ] } }
+]
+}
