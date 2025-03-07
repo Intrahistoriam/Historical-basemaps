@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Sabinas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 42.402671508423403, "lon": 13.308820724487299, "name": "Amiternum", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.308820724487299, 42.402671508423403 ] } },
+{ "type": "Feature", "properties": { "lat": 42.1841323841875, "lon": 12.680389881133999, "name": "Cures", "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.680389881133999, 42.1841323841875 ] } },
+{ "type": "Feature", "properties": { "lat": 42.385857861913998, "lon": 13.014636039733899, "name": "Cutilae", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.014636039733899, 42.385857861913998 ] } },
+{ "type": "Feature", "properties": { "lat": 42.101135982528803, "lon": 12.6260375976562, "name": "Eretum", "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.6260375976562, 42.101135982528803 ] } },
+{ "type": "Feature", "properties": { "lat": 42.354563936125501, "lon": 13.2808184623718, "name": "Foruli", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.2808184623718, 42.354563936125501 ] } },
+{ "type": "Feature", "properties": { "lat": 42.416209478597303, "lon": 13.0808973312378, "name": "Interocrea", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.0808973312378, 42.416209478597303 ] } },
+{ "type": "Feature", "properties": { "lat": 42.791739761315398, "lon": 13.0925917625427, "name": "Nursia", "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.0925917625427, 42.791739761315398 ] } },
+{ "type": "Feature", "properties": { "lat": 42.402116935945401, "lon": 12.8585529327393, "name": "Reate", "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.8585529327393, 42.402116935945401 ] } },
+{ "type": "Feature", "properties": { "lat": 42.227905635745103, "lon": 12.8676724433899, "name": "Trebula Mutuesca", "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.8676724433899, 42.227905635745103 ] } },
+{ "type": "Feature", "properties": { "lat": 42.018190218463097, "lon": 12.8961896896362, "name": "Varia", "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.8961896896362, 42.018190218463097 ] } }
+]
+}
