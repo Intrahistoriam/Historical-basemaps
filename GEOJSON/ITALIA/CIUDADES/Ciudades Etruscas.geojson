@@ -13,7 +13,7 @@
 { "type": "Feature", "properties": { "name": "Mantoua", "lat": 45.160646660461801, "lon": 10.797607898712201, "note": null }, "geometry": { "type": "Point", "coordinates": [ 10.797607898712201, 45.160646660461801 ] } },
 { "type": "Feature", "properties": { "name": "Atria", "lat": 45.057698284635499, "lon": 12.0561861991882, "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.0561861991882, 45.057698284635499 ] } },
 { "type": "Feature", "properties": { "name": "Mutna", "lat": 44.647055444301301, "lon": 10.9252166748047, "note": null }, "geometry": { "type": "Point", "coordinates": [ 10.9252166748047, 44.647055444301301 ] } },
-{ "type": "Feature", "properties": { "name": "Nicaea?", "lat": 42.527847507947499, "lon": 9.5243310928344709, "note": null }, "geometry": { "type": "Point", "coordinates": [ 9.524331092834471, 42.527847507947499 ] } },
+{ "type": "Feature", "properties": { "name": "Alalia", "lat": 42.102485399199999, "lon": 9.5104824917999995, "note": null }, "geometry": { "type": "Point", "coordinates": [ 9.510482491799999, 42.102485399199999 ] } },
 { "type": "Feature", "properties": { "name": "Fidenae", "lat": 41.9820483206639, "lon": 12.5154232978821, "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.5154232978821, 41.9820483206639 ] } },
 { "type": "Feature", "properties": { "name": "Alsium", "lat": 41.9340506721772, "lon": 12.101268768310501, "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.101268768310501, 41.9340506721772 ] } },
 { "type": "Feature", "properties": { "name": "Fregenae", "lat": 41.854546978028303, "lon": 12.195703983306901, "note": null }, "geometry": { "type": "Point", "coordinates": [ 12.195703983306901, 41.854546978028303 ] } },
@@ -24,6 +24,7 @@
 { "type": "Feature", "properties": { "name": "Tlamun", "lat": 42.5553248168276, "lon": 11.1332702636719, "note": null }, "geometry": { "type": "Point", "coordinates": [ 11.1332702636719, 42.5553248168276 ] } },
 { "type": "Feature", "properties": { "name": "Cortona", "lat": 43.274080809375903, "lon": 11.9877576828003, "note": null }, "geometry": { "type": "Point", "coordinates": [ 11.9877576828003, 43.274080809375903 ] } },
 { "type": "Feature", "properties": { "name": "Viesul", "lat": 43.807077372253701, "lon": 11.2926363945007, "note": null }, "geometry": { "type": "Point", "coordinates": [ 11.2926363945007, 43.807077372253701 ] } },
-{ "type": "Feature", "properties": { "name": "Pisai", "lat": 43.7097, "lon": 10.40051, "note": "" }, "geometry": { "type": "Point", "coordinates": [ 10.400507446230492, 43.709769120669733 ] } }
+{ "type": "Feature", "properties": { "name": "Pisai", "lat": 43.7097, "lon": 10.40051, "note": "" }, "geometry": { "type": "Point", "coordinates": [ 10.400507446230492, 43.709769120669733 ] } },
+{ "type": "Feature", "properties": { "name": "Kainua", "lat": 44.335265790400001, "lon": 11.202841595500001, "note": null }, "geometry": { "type": "Point", "coordinates": [ 11.202841595500001, 44.335265790400001 ] } }
 ]
 }
