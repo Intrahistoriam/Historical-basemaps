@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Campanas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Capua", "lat": 41.0860925, "lon": 14.250207, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.250207, 41.0860925 ] } },
+{ "type": "Feature", "properties": { "name": "Nuceria", "lat": 40.743128, "lon": 14.673929, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.673929, 40.743128 ] } },
+{ "type": "Feature", "properties": { "name": "Nola", "lat": 40.926823, "lon": 14.524545, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.524545, 40.926823 ] } },
+{ "type": "Feature", "properties": { "name": "Acerrae", "lat": 40.946092, "lon": 14.371233, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.371233, 40.946092 ] } },
+{ "type": "Feature", "properties": { "name": "Suessula", "lat": 40.990060442100003, "lon": 14.398609947200001, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.398609947200001, 40.990060442100003 ] } },
+{ "type": "Feature", "properties": { "name": "Liternum", "lat": 40.921065603099997, "lon": 14.030073505900001, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.030073505900001, 40.921065603099997 ] } },
+{ "type": "Feature", "properties": { "name": "Atella", "lat": 40.964613, "lon": 14.26311, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.26311, 40.964613 ] } }
+]
+}
