@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Frentanias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Anxanum", "lat": 42.233172593044898, "lon": 14.3913817405701, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.3913817405701, 42.233172593044898 ] } },
+{ "type": "Feature", "properties": { "name": "Histonium", "lat": 42.112717298734701, "lon": 14.709620475769, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.709620475769, 42.112717298734701 ] } },
+{ "type": "Feature", "properties": { "name": "Arx Calela?", "lat": 41.762093094322402, "lon": 14.8449754714966, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.8449754714966, 41.762093094322402 ] } },
+{ "type": "Feature", "properties": { "name": "Uscosium?", "lat": 41.912305804876503, "lon": 14.912159442901601, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.912159442901601, 41.912305804876503 ] } },
+{ "type": "Feature", "properties": { "name": "Buca", "lat": 42.004311542570399, "lon": 14.9964880943298, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.9964880943298, 42.004311542570399 ] } },
+{ "type": "Feature", "properties": { "name": "Cliternia", "lat": 41.957048737409998, "lon": 15.034704208374, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.034704208374, 41.957048737409998 ] } },
+{ "type": "Feature", "properties": { "name": "Hortona", "lat": 42.356902800339597, "lon": 14.4052004814148, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.4052004814148, 42.356902800339597 ] } },
+{ "type": "Feature", "properties": { "name": "Pallanum", "lat": 42.032201339969902, "lon": 14.3953514099121, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.3953514099121, 42.032201339969902 ] } },
+{ "type": "Feature", "properties": { "name": "Geronio", "lat": 41.752448972543398, "lon": 14.8900580406189, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.8900580406189, 41.752448972543398 ] } },
+{ "type": "Feature", "properties": { "name": "Larinum", "lat": 41.806485370862603, "lon": 14.917566776275599, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 14.917566776275599, 41.806485370862603 ] } }
+]
+}
