@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Daunias",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forentum?", "lat": 41.045626134193199, "lon": 15.790765285491901, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.790765285491901, 41.045626134193199 ] } },
+{ "type": "Feature", "properties": { "name": "Coppa Nevigata", "lat": 41.558074114036899, "lon": 15.833852291107201, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.833852291107201, 41.558074114036899 ] } },
+{ "type": "Feature", "properties": { "name": "Noukeria", "lat": 41.508649606628197, "lon": 15.335476398468, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.335476398468, 41.508649606628197 ] } },
+{ "type": "Feature", "properties": { "name": "Sipous", "lat": 41.6076533828507, "lon": 15.8928608894348, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.8928608894348, 41.6076533828507 ] } },
+{ "type": "Feature", "properties": { "name": "Salapia", "lat": 41.4033784637015, "lon": 15.993304252624499, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.993304252624499, 41.4033784637015 ] } },
+{ "type": "Feature", "properties": { "name": "Arpi", "lat": 41.514337676409902, "lon": 15.5834197998047, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.5834197998047, 41.514337676409902 ] } },
+{ "type": "Feature", "properties": { "name": "Vibinum", "lat": 41.251193368676297, "lon": 15.3412485122681, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.3412485122681, 41.251193368676297 ] } },
+{ "type": "Feature", "properties": { "name": "Herdonia", "lat": 41.310437054880097, "lon": 15.622386932373001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.622386932373001, 41.310437054880097 ] } },
+{ "type": "Feature", "properties": { "name": "Ausculum", "lat": 41.207145042298897, "lon": 15.562477111816399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.562477111816399, 41.207145042298897 ] } },
+{ "type": "Feature", "properties": { "name": "Aecae", "lat": 41.361188352162998, "lon": 15.308890342712401, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.308890342712401, 41.361188352162998 ] } },
+{ "type": "Feature", "properties": { "name": "Canusium", "lat": 41.221430311629199, "lon": 16.065573692321799, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.065573692321799, 41.221430311629199 ] } },
+{ "type": "Feature", "properties": { "name": "Casone", "lat": 41.662957746475399, "lon": 15.458621978759799, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.458621978759799, 41.662957746475399 ] } },
+{ "type": "Feature", "properties": { "name": "Tiati", "lat": 41.739369068392797, "lon": 15.261275768280001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 15.261275768280001, 41.739369068392797 ] } }
+]
+}
