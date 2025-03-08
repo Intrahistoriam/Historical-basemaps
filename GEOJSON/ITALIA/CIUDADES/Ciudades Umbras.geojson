@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Umbras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ikuvium", "lat": 43.355468825181198, "lon": 12.573444843292201, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.573444843292201, 43.355468825181198 ] } },
+{ "type": "Feature", "properties": { "name": "Interamna Nahars", "lat": 42.562192254577603, "lon": 12.6436543464661, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.6436543464661, 42.562192254577603 ] } },
+{ "type": "Feature", "properties": { "name": "Fulginiae", "lat": 42.956139833498199, "lon": 12.703285217285201, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.703285217285201, 42.956139833498199 ] } },
+{ "type": "Feature", "properties": { "name": "Mevania", "lat": 42.934880330454, "lon": 12.6093864440918, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.6093864440918, 42.934880330454 ] } },
+{ "type": "Feature", "properties": { "name": "Mevaniola", "lat": 43.983126850106203, "lon": 11.903407573699999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 11.903407573699999, 43.983126850106203 ] } },
+{ "type": "Feature", "properties": { "name": "Luceoli", "lat": 43.440611829445601, "lon": 12.632110118866001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.632110118866001, 43.440611829445601 ] } },
+{ "type": "Feature", "properties": { "name": "Noukria", "lat": 43.113860067956999, "lon": 12.788343429565399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.788343429565399, 43.113860067956999 ] } },
+{ "type": "Feature", "properties": { "name": "Ostra", "lat": 43.584370015204797, "lon": 13.086068630218501, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.086068630218501, 43.584370015204797 ] } },
+{ "type": "Feature", "properties": { "name": "Asisium", "lat": 43.070619897058002, "lon": 12.6189565658569, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.6189565658569, 43.070619897058002 ] } },
+{ "type": "Feature", "properties": { "name": "Narnia Nahars", "lat": 42.518762159524201, "lon": 12.515680789947501, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.515680789947501, 42.518762159524201 ] } },
+{ "type": "Feature", "properties": { "name": "Plestia", "lat": 43.030345182508697, "lon": 12.9037642478943, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.9037642478943, 43.030345182508697 ] } },
+{ "type": "Feature", "properties": { "name": "Pisaurum", "lat": 43.912084720720401, "lon": 12.915759086608899, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.915759086608899, 43.912084720720401 ] } },
+{ "type": "Feature", "properties": { "name": "Spoletium", "lat": 42.745302448791499, "lon": 12.738389968872101, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.738389968872101, 42.745302448791499 ] } },
+{ "type": "Feature", "properties": { "name": "Tadinae", "lat": 43.230266066646998, "lon": 12.786047458648699, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.786047458648699, 43.230266066646998 ] } },
+{ "type": "Feature", "properties": { "name": "Sarsina", "lat": 43.919396005347501, "lon": 12.142145633697501, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.142145633697501, 43.919396005347501 ] } },
+{ "type": "Feature", "properties": { "name": "Vettona", "lat": 43.013787015021201, "lon": 12.485382556915299, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.485382556915299, 43.013787015021201 ] } },
+{ "type": "Feature", "properties": { "name": "Tifernum", "lat": 43.457420472463902, "lon": 12.240314483642599, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.240314483642599, 43.457420472463902 ] } },
+{ "type": "Feature", "properties": { "name": "Tutere", "lat": 42.780251815796703, "lon": 12.408499717712401, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.408499717712401, 42.780251815796703 ] } },
+{ "type": "Feature", "properties": { "name": "Camerta", "lat": 43.140365705638402, "lon": 13.0687737464905, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 13.0687737464905, 43.140365705638402 ] } },
+{ "type": "Feature", "properties": { "name": "Ameria", "lat": 42.557237343778802, "lon": 12.413477897644, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.413477897644, 42.557237343778802 ] } }
+]
+}
