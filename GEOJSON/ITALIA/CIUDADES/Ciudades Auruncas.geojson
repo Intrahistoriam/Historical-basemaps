@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Auruncas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Miturnae", "lat": 41.242190848433403, "lon": 13.7684655189514, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.7684655189514, 41.242190848433403 ] } },
+{ "type": "Feature", "properties": { "name": "Vescia", "lat": 41.166895471720402, "lon": 13.9198923110962, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.9198923110962, 41.166895471720402 ] } },
+{ "type": "Feature", "properties": { "name": "Sinuessa", "lat": 41.152291319228503, "lon": 13.8448333740234, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.8448333740234, 41.152291319228503 ] } },
+{ "type": "Feature", "properties": { "name": "Suessa", "lat": 41.238253872755401, "lon": 13.932230472564701, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.932230472564701, 41.238253872755401 ] } },
+{ "type": "Feature", "properties": { "name": "Formiae", "lat": 41.256040986248401, "lon": 13.603541851043699, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.603541851043699, 41.256040986248401 ] } },
+{ "type": "Feature", "properties": { "name": "Ausona", "lat": 41.355430472019002, "lon": 13.748745918273899, "note": null }, "geometry": { "type": "Point", "coordinates": [ 13.748745918273899, 41.355430472019002 ] } },
+{ "type": "Feature", "properties": { "name": "Cales", "lat": 41.199961, "lon": 14.1321245, "note": null }, "geometry": { "type": "Point", "coordinates": [ 14.1321245, 41.199961 ] } }
+]
+}
