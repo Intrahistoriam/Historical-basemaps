@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudades Peucetas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Putinianum", "lat": 40.849227269953701, "lon": 17.122535705566399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 17.122535705566399, 40.849227269953701 ] } },
+{ "type": "Feature", "properties": { "name": "Barium", "lat": 41.129223379300299, "lon": 16.870322227477999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.870322227477999, 41.129223379300299 ] } },
+{ "type": "Feature", "properties": { "name": "Silvium", "lat": 40.819598527963201, "lon": 16.412351131439198, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.412351131439198, 40.819598527963201 ] } },
+{ "type": "Feature", "properties": { "name": "Azetium", "lat": 41.009163616337901, "lon": 17.005763053894, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 17.005763053894, 41.009163616337901 ] } },
+{ "type": "Feature", "properties": { "name": "Bardulos", "lat": 41.319269010626897, "lon": 16.283969879150401, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.283969879150401, 41.319269010626897 ] } },
+{ "type": "Feature", "properties": { "name": "Rubi", "lat": 41.117197362859898, "lon": 16.484534740448002, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.484534740448002, 41.117197362859898 ] } },
+{ "type": "Feature", "properties": { "name": "Caelia", "lat": 41.064080365959803, "lon": 16.869485378265399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.869485378265399, 41.064080365959803 ] } },
+{ "type": "Feature", "properties": { "name": "Turenum", "lat": 41.275540744175103, "lon": 16.4176297187805, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.4176297187805, 41.275540744175103 ] } },
+{ "type": "Feature", "properties": { "name": "Norba", "lat": 40.967067016851203, "lon": 17.115905284881599, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 17.115905284881599, 40.967067016851203 ] } },
+{ "type": "Feature", "properties": { "name": "Butuntum", "lat": 41.108475506154299, "lon": 16.691429615020802, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 16.691429615020802, 41.108475506154299 ] } },
+{ "type": "Feature", "properties": { "name": "Thuriae", "lat": 40.917444728145597, "lon": 17.019410133361799, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 17.019410133361799, 40.917444728145597 ] } }
+]
+}
