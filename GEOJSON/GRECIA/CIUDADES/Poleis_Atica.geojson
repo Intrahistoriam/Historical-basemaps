@@ -32,6 +32,9 @@
 { "type": "Feature", "properties": { "name": "Halai Araphenides", "lat": 37.987192, "lon": 24.004472, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.004472, 37.987192 ] } },
 { "type": "Feature", "properties": { "name": "Pallene", "lat": 38.0183985, "lon": 23.8490205, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.8490205, 38.0183985 ] } },
 { "type": "Feature", "properties": { "name": "Aphidnai", "lat": 38.2055285, "lon": 23.8361515, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.8361515, 38.2055285 ] } },
-{ "type": "Feature", "properties": { "name": "Phyle", "lat": 38.139956657100001, "lon": 23.636922266199999, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.636922266199999, 38.139956657100001 ] } }
+{ "type": "Feature", "properties": { "name": "Phyle", "lat": 38.139956657100001, "lon": 23.636922266199999, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.636922266199999, 38.139956657100001 ] } },
+{ "type": "Feature", "properties": { "name": "Paiania Kathyperthen", "lat": 37.974635, "lon": 23.844008, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.844008, 37.974635 ] } },
+{ "type": "Feature", "properties": { "name": "Sphēttós", "lat": 37.917244, "lon": 23.8384225, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.8384225, 37.917244 ] } },
+{ "type": "Feature", "properties": { "name": "Thria", "lat": 38.0544725, "lon": 23.5923075, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.5923075, 38.0544725 ] } }
 ]
 }
