@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ciudades_cartaginesas" id="ciudades_cartaginesas">
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+</Schema>
+<Folder><name>ciudades_cartaginesas</name>
+  <Placemark id="ciudades_cartaginesas.1">
+	<name>Abdera</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.7480659892818</SimpleData>
+		<SimpleData name="lon">-3.02251696586609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02251696586609,36.7480659892818</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.2">
+	<name>Caralis</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">39.2172013319889</SimpleData>
+		<SimpleData name="lon">9.11330938339233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.11330938339233,39.2172013319889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.3">
+	<name>Carthago</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.8530547695966</SimpleData>
+		<SimpleData name="lon">10.3230500221252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.3230500221252,36.8530547695966</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.4">
+	<name>Depranon</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.0171277861215</SimpleData>
+		<SimpleData name="lon">12.5178265571594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5178265571594,38.0171277861215</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.5">
+	<name>Ebusos</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.9800038083808</SimpleData>
+		<SimpleData name="lon">1.43000364303589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.43000364303589,38.9800038083808</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.6">
+	<name>Segesta</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.9403138600167</SimpleData>
+		<SimpleData name="lon">12.836172580719</SimpleData>
+		<SimpleData name="notes">Ciudad Élima</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.836172580719,37.9403138600167</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.7">
+	<name>Entella</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.7739712953332</SimpleData>
+		<SimpleData name="lon">13.1249928474426</SimpleData>
+		<SimpleData name="notes">Ciudad Élima</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1249928474426,37.7739712953332</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.8">
+	<name>Eryx</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.0365151716997</SimpleData>
+		<SimpleData name="lon">12.5836157798767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5836157798767,38.0365151716997</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.9">
+	<name>Gades</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.5292777128153</SimpleData>
+		<SimpleData name="lon">-6.29311680793762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.29311680793762,36.5292777128153</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.10">
+	<name>Gaulos</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.0196264959724</SimpleData>
+		<SimpleData name="lon">14.2925262451172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2925262451172,36.0196264959724</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.11">
+	<name>Hadrumeton</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.8258687824857</SimpleData>
+		<SimpleData name="lon">10.6387782096863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.6387782096863,35.8258687824857</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.12">
+	<name>Halyciae</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.8170054249659</SimpleData>
+		<SimpleData name="lon">12.8088569641113</SimpleData>
+		<SimpleData name="notes">Ciudad Élima</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.8088569641113,37.8170054249659</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.13">
+	<name>Hippo Diarrhytus</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.2761444556828</SimpleData>
+		<SimpleData name="lon">9.87310409545898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.87310409545898,37.2761444556828</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.14">
+	<name>Hippo Regius</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.882478349672</SimpleData>
+		<SimpleData name="lon">7.75126218795776</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>7.75126218795776,36.882478349672</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.15">
+	<name>Igilgili</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.8213009926911</SimpleData>
+		<SimpleData name="lon">5.76617002487183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.76617002487183,36.8213009926911</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.16">
+	<name>Kartaia</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.1851952047324</SimpleData>
+		<SimpleData name="lon">-5.40939331054688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.40939331054688,36.1851952047324</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.17">
+	<name>Kossyra</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.8314605441193</SimpleData>
+		<SimpleData name="lon">11.9450354576111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.9450354576111,36.8314605441193</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.18">
+	<name>Leptis Megala</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">32.6379564365796</SimpleData>
+		<SimpleData name="lon">14.2913675308228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2913675308228,32.6379564365796</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.19">
+	<name>Lilybaion</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.8027313175243</SimpleData>
+		<SimpleData name="lon">12.4296569824219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4296569824219,37.8027313175243</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.20">
+	<name>Lixos</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.2002450849911</SimpleData>
+		<SimpleData name="lon">-6.10995411872864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.10995411872864,35.2002450849911</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.21">
+	<name>Malaka</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.7196571122581</SimpleData>
+		<SimpleData name="lon">-4.42016243934631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.42016243934631,36.7196571122581</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.22">
+	<name>Melita</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.8855210462446</SimpleData>
+		<SimpleData name="lon">14.4016170501709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4016170501709,35.8855210462446</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.23">
+	<name>Meninx</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">33.7828213315942</SimpleData>
+		<SimpleData name="lon">10.8856916427612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.8856916427612,33.7828213315942</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.24">
+	<name>Motya</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.8680949448246</SimpleData>
+		<SimpleData name="lon">12.4696969985962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4696969985962,37.8680949448246</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.25">
+	<name>Nora</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.9843989718539</SimpleData>
+		<SimpleData name="lon">9.01597738265991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.01597738265991,38.9843989718539</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.26">
+	<name>Oea</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">32.8975877632893</SimpleData>
+		<SimpleData name="lon">13.1752681732178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1752681732178,32.8975877632893</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.27">
+	<name>Olbia</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">40.9229979876992</SimpleData>
+		<SimpleData name="lon">9.50042724609375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.50042724609375,40.9229979876992</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.28">
+	<name>Panornus</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.1112277232119</SimpleData>
+		<SimpleData name="lon">13.3524441719055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3524441719055,38.1112277232119</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.29">
+	<name>Ruspina</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.7742238067606</SimpleData>
+		<SimpleData name="lon">10.8291721343994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.8291721343994,35.7742238067606</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.30">
+	<name>Sabratha</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">32.8049511701353</SimpleData>
+		<SimpleData name="lon">12.4853610992432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4853610992432,32.8049511701353</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.31">
+	<name>Sexi</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">36.7345851209967</SimpleData>
+		<SimpleData name="lon">-3.69075179100037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69075179100037,36.7345851209967</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.32">
+	<name>Solous</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">38.0824953119596</SimpleData>
+		<SimpleData name="lon">13.5274529457092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5274529457092,38.0824953119596</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.33">
+	<name>Sulci</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">39.0617408366905</SimpleData>
+		<SimpleData name="lon">8.45470905303955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.45470905303955,39.0617408366905</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.34">
+	<name>Tacape</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">33.8864309096401</SimpleData>
+		<SimpleData name="lon">10.1094388961792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.1094388961792,33.8864309096401</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.35">
+	<name>Thapsos</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.6225935606682</SimpleData>
+		<SimpleData name="lon">11.0428905487061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>11.0428905487061,35.6225935606682</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.36">
+	<name>Tharros</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">39.8748584624916</SimpleData>
+		<SimpleData name="lon">8.44101905822754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.44101905822754,39.8748584624916</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.37">
+	<name>Tingi</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">35.7875407191273</SimpleData>
+		<SimpleData name="lon">-5.81023335456848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.81023335456848,35.7875407191273</coordinates></Point>
+  </Placemark>
+  <Placemark id="ciudades_cartaginesas.38">
+	<name>Utica</name>
+	<ExtendedData><SchemaData schemaUrl="#ciudades_cartaginesas">
+		<SimpleData name="lat">37.0558792044252</SimpleData>
+		<SimpleData name="lon">10.0600004196167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.0600004196167,37.0558792044252</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
