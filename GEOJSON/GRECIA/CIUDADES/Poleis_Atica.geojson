@@ -19,9 +19,19 @@
 { "type": "Feature", "properties": { "name": "Oinoe", "lat": 38.167106600501398, "lon": 23.457140922546401, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.457140922546401, 38.167106600501398 ] } },
 { "type": "Feature", "properties": { "name": "Piraeus", "lat": 37.937699267328597, "lon": 23.6450242996216, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.6450242996216, 37.937699267328597 ] } },
 { "type": "Feature", "properties": { "name": "Rhamnous", "lat": 38.219284540551598, "lon": 24.026906490325899, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.026906490325899, 38.219284540551598 ] } },
-{ "type": "Feature", "properties": { "name": "Sphendale", "lat": 38.1317210507111, "lon": 23.791172504424999, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.791172504424999, 38.1317210507111 ] } },
 { "type": "Feature", "properties": { "name": "Thorai", "lat": 37.793422842171502, "lon": 23.937621116638201, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.937621116638201, 37.793422842171502 ] } },
 { "type": "Feature", "properties": { "name": "Marathon", "lat": 38.1465515, "lon": 23.970146, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.970146, 38.1465515 ] } },
-{ "type": "Feature", "properties": { "name": "Oropos", "lat": 38.319981233299998, "lon": 23.7902040333, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.7902040333, 38.319981233299998 ] } }
+{ "type": "Feature", "properties": { "name": "Oropos", "lat": 38.319981233299998, "lon": 23.7902040333, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.7902040333, 38.319981233299998 ] } },
+{ "type": "Feature", "properties": { "name": "Panakton", "lat": 38.1834885, "lon": 23.5058262, "nota": "Fortaleza ateniense  entre en al  frontera de Ática y Beocia" }, "geometry": { "type": "Point", "coordinates": [ 23.5058262, 38.1834885 ] } },
+{ "type": "Feature", "properties": { "name": "Dekeleia", "lat": 38.13302775, "lon": 23.79187175, "nota": "La famosa colina de Decelia donde Agis construyó un fuerte.S" }, "geometry": { "type": "Point", "coordinates": [ 23.79187175, 38.13302775 ] } },
+{ "type": "Feature", "properties": { "name": "Anaphlystos", "lat": 37.7375619, "lon": 23.9521915, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.9521915, 37.7375619 ] } },
+{ "type": "Feature", "properties": { "name": "Sounion", "lat": 37.653035172499997, "lon": 24.0271373432, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.0271373432, 37.653035172499997 ] } },
+{ "type": "Feature", "properties": { "name": "Thorikos", "lat": 37.73787, "lon": 24.053634, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.053634, 37.73787 ] } },
+{ "type": "Feature", "properties": { "name": "Prasia", "lat": 37.8651735, "lon": 24.0375955, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.0375955, 37.8651735 ] } },
+{ "type": "Feature", "properties": { "name": "Brauron", "lat": 37.926154758700001, "lon": 23.993712742700001, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.993712742700001, 37.926154758700001 ] } },
+{ "type": "Feature", "properties": { "name": "Halai Araphenides", "lat": 37.987192, "lon": 24.004472, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 24.004472, 37.987192 ] } },
+{ "type": "Feature", "properties": { "name": "Pallene", "lat": 38.0183985, "lon": 23.8490205, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.8490205, 38.0183985 ] } },
+{ "type": "Feature", "properties": { "name": "Aphidnai", "lat": 38.2055285, "lon": 23.8361515, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.8361515, 38.2055285 ] } },
+{ "type": "Feature", "properties": { "name": "Phyle", "lat": 38.139956657100001, "lon": 23.636922266199999, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.636922266199999, 38.139956657100001 ] } }
 ]
 }
