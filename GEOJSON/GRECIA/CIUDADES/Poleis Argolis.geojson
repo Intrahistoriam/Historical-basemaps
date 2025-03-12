@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Argolis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Apobathmoi", "lat": 37.513981046203803, "lon": 22.732837200164798, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.732837200164798, 37.513981046203803 ] } },
+{ "type": "Feature", "properties": { "name": "Argos", "lat": 37.631048479119002, "lon": 22.720370292663599, "nota": "Ciudad-estado dominante de la región, enemiga de Esparta." }, "geometry": { "type": "Point", "coordinates": [ 22.720370292663599, 37.631048479119002 ] } },
+{ "type": "Feature", "properties": { "name": "Asine", "lat": 37.535891500919398, "lon": 22.868921756744399, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.868921756744399, 37.535891500919398 ] } },
+{ "type": "Feature", "properties": { "name": "Didymoi", "lat": 37.500048607668603, "lon": 23.154201507568398, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.154201507568398, 37.500048607668603 ] } },
+{ "type": "Feature", "properties": { "name": "Epidauros", "lat": 37.633461530318698, "lon": 23.160166740417498, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.160166740417498, 37.633461530318698 ] } },
+{ "type": "Feature", "properties": { "name": "Halieis", "lat": 37.315089667678201, "lon": 23.152635097503701, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.152635097503701, 37.315089667678201 ] } },
+{ "type": "Feature", "properties": { "name": "Heraion", "lat": 37.692089865878202, "lon": 22.774765491485599, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.774765491485599, 37.692089865878202 ] } },
+{ "type": "Feature", "properties": { "name": "Hermion", "lat": 37.385222062312899, "lon": 23.243594169616699, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.243594169616699, 37.385222062312899 ] } },
+{ "type": "Feature", "properties": { "name": "Mases", "lat": 37.417873552478, "lon": 23.142185211181602, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.142185211181602, 37.417873552478 ] } },
+{ "type": "Feature", "properties": { "name": "Methana", "lat": 37.591238825974301, "lon": 23.374099731445298, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.374099731445298, 37.591238825974301 ] } },
+{ "type": "Feature", "properties": { "name": "Nauplia", "lat": 37.568120075232002, "lon": 22.808711528778101, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.808711528778101, 37.568120075232002 ] } },
+{ "type": "Feature", "properties": { "name": "Temenion", "lat": 37.5816826990078, "lon": 22.737793922424299, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.737793922424299, 37.5816826990078 ] } },
+{ "type": "Feature", "properties": { "name": "Thermasia", "lat": 37.4093860450457, "lon": 23.326334953308098, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.326334953308098, 37.4093860450457 ] } },
+{ "type": "Feature", "properties": { "name": "Troizen", "lat": 37.496396976611202, "lon": 23.362448215484601, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.362448215484601, 37.496396976611202 ] } },
+{ "type": "Feature", "properties": { "name": "Anthene", "lat": 37.450394, "lon": 22.669501, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.669501, 37.450394 ] } },
+{ "type": "Feature", "properties": { "name": "Lerna", "lat": 37.551092958799998, "lon": 22.718433310399998, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.718433310399998, 37.551092958799998 ] } },
+{ "type": "Feature", "properties": { "name": "Hysiai", "lat": 37.5200016, "lon": 22.5862423, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.5862423, 37.5200016 ] } },
+{ "type": "Feature", "properties": { "name": "Orneai", "lat": 37.717853, "lon": 22.547276, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.547276, 37.717853 ] } },
+{ "type": "Feature", "properties": { "name": "Mykenai", "lat": 37.7275466886, "lon": 22.753856750499999, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.753856750499999, 37.7275466886 ] } },
+{ "type": "Feature", "properties": { "name": "Midea", "lat": 37.649814402899999, "lon": 22.8414368125, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.8414368125, 37.649814402899999 ] } },
+{ "type": "Feature", "properties": { "name": "Lessa", "lat": 37.591166, "lon": 22.94132, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.94132, 37.591166 ] } },
+{ "type": "Feature", "properties": { "name": "Asklepieion", "lat": 23.079196, "lon": 37.595976, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.079272236400001, 37.595967994900001 ] } },
+{ "type": "Feature", "properties": { "name": "Philanorion", "lat": 37.537127, "lon": 23.141581, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.141581, 37.537127 ] } },
+{ "type": "Feature", "properties": { "name": "Lyrkeia", "lat": 37.686635, "lon": 22.643094, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.643094, 37.686635 ] } }
+]
+}
