@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Elis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Akroreia", "lat": 21.685817408199998, "lon": 37.744028064299997, "nota": "Santuario ofrecido al dios Zeus, sede de los juegos olímpicos celebrados cada 4 años." }, "geometry": { "type": "Point", "coordinates": [ 21.685817408199998, 37.744028064299997 ] } },
+{ "type": "Feature", "properties": { "name": "Myrsinos", "lat": 21.407812, "lon": 38.01258, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.407812, 38.01258 ] } },
+{ "type": "Feature", "properties": { "name": "Lasion", "lat": 21.743462, "lon": 37.798028, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.743462, 37.798028 ] } },
+{ "type": "Feature", "properties": { "name": "Pheia", "lat": 21.311251, "lon": 37.660717, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.311251, 37.660717 ] } },
+{ "type": "Feature", "properties": { "name": "Olimpia", "lat": 21.630556583404498, "lon": 37.638244917790402, "nota": "Santuario ofrecido al dios Zeus y sede de unos juegos celebrados cada 4 años, Los Juegos Olímpicos." }, "geometry": { "type": "Point", "coordinates": [ 21.630556583404498, 37.638244917790402 ] } },
+{ "type": "Feature", "properties": { "name": "Pylos", "lat": 21.5180325508118, "lon": 37.899730659354503, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.5180325508118, 37.899730659354503 ] } },
+{ "type": "Feature", "properties": { "name": "Kyllene", "lat": 21.143875122070298, "lon": 37.9332398606808, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.143875122070298, 37.9332398606808 ] } },
+{ "type": "Feature", "properties": { "name": "Elis", "lat": 21.374351978301998, "lon": 37.891272654654202, "nota": "Ciudad-estado dominante de la región." }, "geometry": { "type": "Point", "coordinates": [ 21.374351978301998, 37.891272654654202 ] } },
+{ "type": "Feature", "properties": { "name": "Lépreon", "lat": 21.7251305, "lon": 37.4400321, "nota": "" }, "geometry": { "type": "Point", "coordinates": [ 21.7251305, 37.4400321 ] } },
+{ "type": "Feature", "properties": { "name": "Hyrmine", "lat": 37.886492, "lon": 21.135668, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.135668, 37.886492 ] } },
+{ "type": "Feature", "properties": { "name": "Epitalion", "lat": 37.632054, "lon": 21.476013, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.476013, 37.632054 ] } },
+{ "type": "Feature", "properties": { "name": "Skillous", "lat": 37.609552, "lon": 21.602752, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.602752, 37.609552 ] } },
+{ "type": "Feature", "properties": { "name": "Phrixa", "lat": 37.635009, "lon": 21.71145, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.71145, 37.635009 ] } },
+{ "type": "Feature", "properties": { "name": "Makistos", "lat": 37.6043977, "lon": 21.6755249, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.6755249, 37.6043977 ] } },
+{ "type": "Feature", "properties": { "name": "Samikon", "lat": 37.525886, "lon": 21.596223, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.596223, 37.525886 ] } },
+{ "type": "Feature", "properties": { "name": "Pyrgoi", "lat": 37.4118596, "lon": 21.6917632, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 21.6917632, 37.4118596 ] } }
+]
+}
