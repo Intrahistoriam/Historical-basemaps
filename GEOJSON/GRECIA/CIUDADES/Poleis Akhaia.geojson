@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Akhaia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aigion", "lat": 38.252706655454801, "lon": 22.081961631774899, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.081961631774899, 38.252706655454801 ] } },
+{ "type": "Feature", "properties": { "name": "Bura", "lat": 38.142741853466099, "lon": 22.205429077148398, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.205429077148398, 38.142741853466099 ] } },
+{ "type": "Feature", "properties": { "name": "Dyme", "lat": 38.144623493391002, "lon": 21.5514206886292, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.5514206886292, 38.144623493391002 ] } },
+{ "type": "Feature", "properties": { "name": "Helike", "lat": 38.220540465040102, "lon": 22.144296169280999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.144296169280999, 38.220540465040102 ] } },
+{ "type": "Feature", "properties": { "name": "Keryneia", "lat": 38.163842129231597, "lon": 22.151226997375499, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.151226997375499, 38.163842129231597 ] } },
+{ "type": "Feature", "properties": { "name": "Leontion", "lat": 38.030439206601798, "lon": 21.913111209869399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.913111209869399, 38.030439206601798 ] } },
+{ "type": "Feature", "properties": { "name": "Olenos", "lat": 38.153701934953503, "lon": 21.640598773956299, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.640598773956299, 38.153701934953503 ] } },
+{ "type": "Feature", "properties": { "name": "Patrai", "lat": 38.243261366961697, "lon": 21.738510131835898, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.738510131835898, 38.243261366961697 ] } },
+{ "type": "Feature", "properties": { "name": "Pellene", "lat": 38.043207445558103, "lon": 22.548344135284399, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.548344135284399, 38.043207445558103 ] } },
+{ "type": "Feature", "properties": { "name": "Pharai", "lat": 38.093143579290398, "lon": 21.717095375061, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.717095375061, 38.093143579290398 ] } },
+{ "type": "Feature", "properties": { "name": "Phelloe", "lat": 38.077546421974503, "lon": 22.413933277130099, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.413933277130099, 38.077546421974503 ] } },
+{ "type": "Feature", "properties": { "name": "Rhypes", "lat": 38.2139318676169, "lon": 22.018940448761001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.018940448761001, 38.2139318676169 ] } },
+{ "type": "Feature", "properties": { "name": "Aigeira", "lat": 38.12887, "lon": 22.37949, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.3782, 38.12855 ] } },
+{ "type": "Feature", "properties": { "name": "Aristonautai", "lat": 38.076814, "lon": 22.635738, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.635738, 38.076814 ] } },
+{ "type": "Feature", "properties": { "name": "Aigai", "lat": 38.154879, "lon": 22.314637, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.314637, 38.154879 ] } },
+{ "type": "Feature", "properties": { "name": "Erineos", "lat": 38.309763, "lon": 21.993332, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.993332, 38.309763 ] } },
+{ "type": "Feature", "properties": { "name": "Panormos", "lat": 38.31667, "lon": 21.81667, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.81667, 38.31667 ] } },
+{ "type": "Feature", "properties": { "name": "Teichos Dymaion", "lat": 38.156667581199997, "lon": 21.403350354600001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.403350354600001, 38.156667581199997 ] } }
+]
+}
