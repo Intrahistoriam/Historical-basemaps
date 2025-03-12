@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Corintia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Korinthos", "lat": 37.905639679493703, "lon": 22.878620624542201, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.878620624542201, 37.905639679493703 ] } },
+{ "type": "Feature", "properties": { "name": "Heraion", "lat": 38.028115164587597, "lon": 22.852828502655001, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.852828502655001, 38.028115164587597 ] } },
+{ "type": "Feature", "properties": { "name": "Krommyon", "lat": 37.95001, "lon": 23.116657, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 23.116657, 37.95001 ] } },
+{ "type": "Feature", "properties": { "name": "Lekhaion", "lat": 37.930955050378799, "lon": 22.878813743591301, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.878813743591301, 37.930955050378799 ] } },
+{ "type": "Feature", "properties": { "name": "Peiraion", "lat": 38.0301856783285, "lon": 22.949001789093, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.949001789093, 38.0301856783285 ] } },
+{ "type": "Feature", "properties": { "name": "Phleious", "lat": 37.844596466777404, "lon": 22.6465773582458, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.6465773582458, 37.844596466777404 ] } },
+{ "type": "Feature", "properties": { "name": "Sikyon", "lat": 37.983817515389703, "lon": 22.712194919586199, "nota": "Corintia" }, "geometry": { "type": "Point", "coordinates": [ 22.712194919586199, 37.983817515389703 ] } },
+{ "type": "Feature", "properties": { "name": "Isthmia", "lat": 37.9158035, "lon": 22.9931345, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.9931345, 37.9158035 ] } },
+{ "type": "Feature", "properties": { "name": "Kenchreai", "lat": 37.88239, "lon": 22.992532, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.992532, 37.88239 ] } },
+{ "type": "Feature", "properties": { "name": "Solygeia", "lat": 37.843712, "lon": 22.966599, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.966599, 37.843712 ] } },
+{ "type": "Feature", "properties": { "name": "Tenea", "lat": 37.807938582799999, "lon": 22.867887964800001, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.867887964800001, 37.807938582799999 ] } },
+{ "type": "Feature", "properties": { "name": "Kleonai", "lat": 37.819723966700003, "lon": 22.776239933300001, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.776239933300001, 37.819723966700003 ] } },
+{ "type": "Feature", "properties": { "name": "Nemea", "lat": 37.8090585307, "lon": 22.710679536499999, "nota": "El Santuario de Zeus en Nemea se encontraba en la región de Argólida, en el noreste del Peloponeso, aunque en la Antigüedad se consideraba parte del territorio de Corinto. Nemea era famosa por su importancia religiosa y deportiva, ya que allí se celebraban los Juegos Nemeos, uno de los cuatro grandes certámenes panhelénicos junto con los Juegos Olímpicos, Píticos e Ístmicos." }, "geometry": { "type": "Point", "coordinates": [ 22.710679536499999, 37.8090585307 ] } },
+{ "type": "Feature", "properties": { "name": "Titane", "lat": 37.920404, "lon": 22.624893, "nota": null }, "geometry": { "type": "Point", "coordinates": [ 22.624893, 37.920404 ] } }
+]
+}
