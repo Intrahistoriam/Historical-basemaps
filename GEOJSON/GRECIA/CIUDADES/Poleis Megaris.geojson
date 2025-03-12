@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Megaris",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Aigosthena", "lat": 38.1474332061659, "lon": 23.2279515266418, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.2279515266418, 38.1474332061659 ] } },
+{ "type": "Feature", "properties": { "name": "Megara", "lat": 37.985077493785198, "lon": 23.3401536941528, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.3401536941528, 37.985077493785198 ] } },
+{ "type": "Feature", "properties": { "name": "Pagai", "lat": 38.084918963535301, "lon": 23.197116851806602, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.197116851806602, 38.084918963535301 ] } },
+{ "type": "Feature", "properties": { "name": "Tripodiskos", "lat": 38.029087045671801, "lon": 23.208274841308601, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.208274841308601, 38.029087045671801 ] } },
+{ "type": "Feature", "properties": { "name": "Nisaia", "lat": 23.3636783874, "lon": 0.0, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.3636783874, 37.976445326099999 ] } }
+]
+}
