@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Euboia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Histiaia", "lat": 38.946604, "lon": 23.090527, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.090527, 38.946604 ] } },
+{ "type": "Feature", "properties": { "name": "Amarynthos", "lat": 38.386998304772597, "lon": 23.9091038703918, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.9091038703918, 38.386998304772597 ] } },
+{ "type": "Feature", "properties": { "name": "Argoura", "lat": 38.404311661395703, "lon": 23.663156032562298, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.663156032562298, 38.404311661395703 ] } },
+{ "type": "Feature", "properties": { "name": "Chalkis", "lat": 38.457134215997897, "lon": 23.621935844421401, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.621935844421401, 38.457134215997897 ] } },
+{ "type": "Feature", "properties": { "name": "Eretria", "lat": 38.399914343897002, "lon": 23.7947130203247, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.7947130203247, 38.399914343897002 ] } },
+{ "type": "Feature", "properties": { "name": "Karystos", "lat": 38.034799755564698, "lon": 24.431405067443801, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.431405067443801, 38.034799755564698 ] } },
+{ "type": "Feature", "properties": { "name": "Porthmos", "lat": 38.389310916229199, "lon": 24.059736728668199, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.059736728668199, 38.389310916229199 ] } },
+{ "type": "Feature", "properties": { "name": "Styra", "lat": 38.145846955198003, "lon": 24.261760711669901, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.261760711669901, 38.145846955198003 ] } },
+{ "type": "Feature", "properties": { "name": "Zaretra", "lat": 38.312879935680598, "lon": 24.182453155517599, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.182453155517599, 38.312879935680598 ] } },
+{ "type": "Feature", "properties": { "name": "Dion", "lat": 38.849584, "lon": 22.850558, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.850558, 38.849584 ] } },
+{ "type": "Feature", "properties": { "name": "Oreos", "lat": 38.949781, "lon": 23.099168, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.099168, 38.949781 ] } },
+{ "type": "Feature", "properties": { "name": "Aidepsos", "lat": 38.879822, "lon": 23.044199, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.044199, 38.879822 ] } },
+{ "type": "Feature", "properties": { "name": "Orobiai", "lat": 38.82251, "lon": 23.214315, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.214315, 38.82251 ] } },
+{ "type": "Feature", "properties": { "name": "Elymnion", "lat": 38.774176, "lon": 23.31862, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.31862, 38.774176 ] } },
+{ "type": "Feature", "properties": { "name": "Artemision", "lat": 39.0140455, "lon": 23.2213755, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.2213755, 39.0140455 ] } },
+{ "type": "Feature", "properties": { "name": "Kerinthos", "lat": 38.825075, "lon": 23.48282, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.48282, 38.825075 ] } },
+{ "type": "Feature", "properties": { "name": "Aigai", "lat": 38.598185, "lon": 23.552631, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.552631, 38.598185 ] } },
+{ "type": "Feature", "properties": { "name": "Parthenion", "lat": 38.460835, "lon": 23.963266, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 23.963266, 38.460835 ] } },
+{ "type": "Feature", "properties": { "name": "Kotylaion", "lat": 38.545224, "lon": 24.037598, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.037598, 38.545224 ] } },
+{ "type": "Feature", "properties": { "name": "Tamynai", "lat": 38.499419, "lon": 24.104151, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.104151, 38.499419 ] } },
+{ "type": "Feature", "properties": { "name": "Dystos", "lat": 38.3551578, "lon": 24.14480115, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.14480115, 38.3551578 ] } },
+{ "type": "Feature", "properties": { "name": "Marmarion", "lat": 38.049032, "lon": 24.320901, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.320901, 38.049032 ] } },
+{ "type": "Feature", "properties": { "name": "Geraistos", "lat": 37.9772965, "lon": 24.5383543, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 24.5383543, 37.9772965 ] } }
+]
+}
