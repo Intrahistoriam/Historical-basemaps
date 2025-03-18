@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Kynouria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Thyrea", "lat": 37.249998977676803, "lon": 22.7500033378601, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.7500033378601, 37.249998977676803 ] } },
+{ "type": "Feature", "properties": { "name": "Tyros", "lat": 37.2432293, "lon": 22.87207155, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.87207155, 37.2432293 ] } },
+{ "type": "Feature", "properties": { "name": "Anthana", "lat": 37.3707775, "lon": 22.783524, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.783524, 37.3707775 ] } },
+{ "type": "Feature", "properties": { "name": "Astron", "lat": 37.418953, "lon": 22.763719, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.763719, 37.418953 ] } },
+{ "type": "Feature", "properties": { "name": "Hermai", "lat": 37.32399, "lon": 22.543094, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.543094, 37.32399 ] } }
+]
+}
