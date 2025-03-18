@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Lokris Ozolia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Amphissa", "lat": 38.518405288360903, "lon": 22.374172210693398, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.374172210693398, 38.518405288360903 ] } },
+{ "type": "Feature", "properties": { "name": "Eupalion", "lat": 38.415585396543101, "lon": 21.918818950653101, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.918818950653101, 38.415585396543101 ] } },
+{ "type": "Feature", "properties": { "name": "Myania", "lat": 38.478042441558401, "lon": 22.357735633850101, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.357735633850101, 38.478042441558401 ] } },
+{ "type": "Feature", "properties": { "name": "Naupactus", "lat": 38.399729364831401, "lon": 21.831271648407, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.831271648407, 38.399729364831401 ] } },
+{ "type": "Feature", "properties": { "name": "Polis", "lat": 38.3852911295998, "lon": 22.071855068206801, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.071855068206801, 38.3852911295998 ] } },
+{ "type": "Feature", "properties": { "name": "Tolophon", "lat": 38.375484604089102, "lon": 22.2965168952942, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.2965168952942, 38.375484604089102 ] } },
+{ "type": "Feature", "properties": { "name": "Triteia", "lat": 38.403235478394798, "lon": 22.322502136230501, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.322502136230501, 38.403235478394798 ] } },
+{ "type": "Feature", "properties": { "name": "Oineon", "lat": 38.400288, "lon": 21.993565, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.993565, 38.400288 ] } },
+{ "type": "Feature", "properties": { "name": "Oiantheia", "lat": 38.342137, "lon": 22.191004, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.191004, 38.342137 ] } },
+{ "type": "Feature", "properties": { "name": "Physkeis", "lat": 38.448897, "lon": 22.246744, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.246744, 38.448897 ] } },
+{ "type": "Feature", "properties": { "name": "Chaleion", "lat": 38.378004, "lon": 22.38728, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.38728, 38.378004 ] } }
+]
+}
