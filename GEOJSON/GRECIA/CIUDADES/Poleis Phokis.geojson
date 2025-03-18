@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Phokis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Parapotamioi", "lat": 38.551148, "lon": 22.817862, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.817862, 38.551148 ] } },
+{ "type": "Feature", "properties": { "name": "Abai", "lat": 38.5802015752, "lon": 22.917061082099998, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.917061082099998, 38.5802015752 ] } },
+{ "type": "Feature", "properties": { "name": "Hyampolis", "lat": 38.596071905099997, "lon": 22.905583901300002, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.905583901300002, 38.596071905099997 ] } },
+{ "type": "Feature", "properties": { "name": "Tithorea", "lat": 38.5855, "lon": 22.6686, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.6686, 38.5855 ] } },
+{ "type": "Feature", "properties": { "name": "Lilaia", "lat": 38.625764319399998, "lon": 22.5062875695, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.5062875695, 38.625764319399998 ] } },
+{ "type": "Feature", "properties": { "name": "Krisa", "lat": 38.4470395, "lon": 22.4519405, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.4519405, 38.4470395 ] } },
+{ "type": "Feature", "properties": { "name": "Antikyra", "lat": 38.375439, "lon": 22.626059, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.626059, 38.375439 ] } },
+{ "type": "Feature", "properties": { "name": "Boulis", "lat": 38.276455, "lon": 22.802911, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.802911, 38.276455 ] } },
+{ "type": "Feature", "properties": { "name": "Daphnous", "lat": 0.0, "lon": 38.748669767644103, "notes": "22.8788566589355" }, "geometry": { "type": "Point", "coordinates": [ 22.878856658935501, 38.748669767644103 ] } },
+{ "type": "Feature", "properties": { "name": "Ambrysos", "lat": 0.0, "lon": 38.4291939233037, "notes": "22.6672196388245" }, "geometry": { "type": "Point", "coordinates": [ 22.667219638824498, 38.4291939233037 ] } },
+{ "type": "Feature", "properties": { "name": "Amphikleia", "lat": 0.0, "lon": 38.642316232048898, "notes": "22.5982117652893" }, "geometry": { "type": "Point", "coordinates": [ 22.5982117652893, 38.642316232048898 ] } },
+{ "type": "Feature", "properties": { "name": "Antikyra", "lat": 0.0, "lon": 38.375442549230399, "notes": "22.6260638237" }, "geometry": { "type": "Point", "coordinates": [ 22.626063823700001, 38.375442549230399 ] } },
+{ "type": "Feature", "properties": { "name": "Daulis", "lat": 0.0, "lon": 38.507491833884202, "notes": "22.7288675308228" }, "geometry": { "type": "Point", "coordinates": [ 22.7288675308228, 38.507491833884202 ] } },
+{ "type": "Feature", "properties": { "name": "Delphi", "lat": 0.0, "lon": 38.482292227254902, "notes": "22.5011587142944" }, "geometry": { "type": "Point", "coordinates": [ 22.501158714294402, 38.482292227254902 ] } },
+{ "type": "Feature", "properties": { "name": "Drymaia", "lat": 0.0, "lon": 38.706159051382301, "notes": "22.5409841537476" }, "geometry": { "type": "Point", "coordinates": [ 22.540984153747601, 38.706159051382301 ] } },
+{ "type": "Feature", "properties": { "name": "Elateia", "lat": 0.0, "lon": 38.645634579462801, "notes": "22.7799797058105" }, "geometry": { "type": "Point", "coordinates": [ 22.779979705810501, 38.645634579462801 ] } },
+{ "type": "Feature", "properties": { "name": "Kirra", "lat": 0.0, "lon": 38.429580539477399, "notes": "22.4455618858337" }, "geometry": { "type": "Point", "coordinates": [ 22.445561885833701, 38.429580539477399 ] } },
+{ "type": "Feature", "properties": { "name": "Ledon", "lat": 0.0, "lon": 38.658395377565398, "notes": "22.6760816574097" }, "geometry": { "type": "Point", "coordinates": [ 22.6760816574097, 38.658395377565398 ] } },
+{ "type": "Feature", "properties": { "name": "Medeon", "lat": 0.0, "lon": 38.366585251351502, "notes": "22.683892250061" }, "geometry": { "type": "Point", "coordinates": [ 22.683892250061, 38.366585251351502 ] } },
+{ "type": "Feature", "properties": { "name": "Panopeos", "lat": 0.0, "lon": 38.495291992079302, "notes": "22.7943134307861" }, "geometry": { "type": "Point", "coordinates": [ 22.794313430786101, 38.495291992079302 ] } },
+{ "type": "Feature", "properties": { "name": "Pedieis", "lat": 0.0, "lon": 38.6265184566724, "notes": "22.6715970039368" }, "geometry": { "type": "Point", "coordinates": [ 22.6715970039368, 38.6265184566724 ] } },
+{ "type": "Feature", "properties": { "name": "Stiris", "lat": 0.0, "lon": 38.384315582837502, "notes": "22.7553462982178" }, "geometry": { "type": "Point", "coordinates": [ 22.755346298217798, 38.384315582837502 ] } },
+{ "type": "Feature", "properties": { "name": " Tithronion", "lat": 0.0, "lon": 38.675333647083399, "notes": "22.5810670852661" }, "geometry": { "type": "Point", "coordinates": [ 22.581067085266099, 38.675333647083399 ] } }
+]
+}
