@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Oitilia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Oiniadai", "lat": 38.4070675, "lon": 21.196384, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.196384, 38.4070675 ] } },
+{ "type": "Feature", "properties": { "name": "Ithoria", "lat": 38.4884872, "lon": 21.2875175, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.2875175, 38.4884872 ] } },
+{ "type": "Feature", "properties": { "name": "Konope", "lat": 38.5729363, "lon": 21.2989237, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.2989237, 38.5729363 ] } },
+{ "type": "Feature", "properties": { "name": "Agrinion", "lat": 38.640054833299999, "lon": 21.375835533299998, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.375835533299998, 38.640054833299999 ] } },
+{ "type": "Feature", "properties": { "name": "Thesteia", "lat": 38.64771, "lon": 21.490573, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.490573, 38.64771 ] } },
+{ "type": "Feature", "properties": { "name": "Phystion", "lat": 38.599638, "lon": 21.590774, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.590774, 38.599638 ] } },
+{ "type": "Feature", "properties": { "name": "Thermon", "lat": 38.558783, "lon": 21.667571, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.667571, 38.558783 ] } },
+{ "type": "Feature", "properties": { "name": "Pamphia", "lat": 38.505348, "lon": 21.649946, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.649946, 38.505348 ] } },
+{ "type": "Feature", "properties": { "name": "Palaia Pleuron", "lat": 38.394477, "lon": 21.418785, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.418785, 38.394477 ] } },
+{ "type": "Feature", "properties": { "name": "Kalydon", "lat": 38.372926, "lon": 21.5331825, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.5331825, 38.372926 ] } },
+{ "type": "Feature", "properties": { "name": "Trichonion", "lat": 38.52448, "lon": 21.520665, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.520665, 38.52448 ] } },
+{ "type": "Feature", "properties": { "name": "Hypochalkis", "lat": 38.354052, "lon": 21.6313226, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.6313226, 38.354052 ] } },
+{ "type": "Feature", "properties": { "name": "Makyneia", "lat": 38.3556957694, "lon": 21.72437563, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.72437563, 38.3556957694 ] } },
+{ "type": "Feature", "properties": { "name": "Poteidania", "lat": 38.437246, "lon": 22.01355, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.01355, 38.437246 ] } },
+{ "type": "Feature", "properties": { "name": "Aigition", "lat": 38.4903911, "lon": 22.1689288, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.1689288, 38.4903911 ] } },
+{ "type": "Feature", "properties": { "name": "Kallipolis", "lat": 38.55033115, "lon": 22.1657695, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.1657695, 38.55033115 ] } }
+]
+}
