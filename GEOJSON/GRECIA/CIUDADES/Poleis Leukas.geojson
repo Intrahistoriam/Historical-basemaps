@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Leukas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Leukas", "lat": 38.807343005976399, "lon": 20.7131123542786, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.7131123542786, 38.807343005976399 ] } },
+{ "type": "Feature", "properties": { "name": "Hellomenon", "lat": 38.713327, "lon": 20.713062, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.713062, 38.713327 ] } },
+{ "type": "Feature", "properties": { "name": "Phara", "lat": 38.638652, "lon": 20.605863, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.605863, 38.638652 ] } }
+]
+}
