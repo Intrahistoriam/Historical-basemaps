@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Kephallenia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Panormos", "lat": null, "lon": null, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.576084192620964, 38.459340051937936 ] } },
+{ "type": "Feature", "properties": { "name": "Pale", "lat": 38.222555, "lon": 20.437481, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.437481, 38.222555 ] } },
+{ "type": "Feature", "properties": { "name": "Krane", "lat": 38.167826487900001, "lon": 20.516704886100001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.516704886100001, 38.167826487900001 ] } },
+{ "type": "Feature", "properties": { "name": "Pronnoi", "lat": 38.145962, "lon": 20.776722, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.776722, 38.145962 ] } },
+{ "type": "Feature", "properties": { "name": "Same", "lat": 38.250827553000001, "lon": 20.647627635799999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.647627635799999, 38.250827553 ] } }
+]
+}
