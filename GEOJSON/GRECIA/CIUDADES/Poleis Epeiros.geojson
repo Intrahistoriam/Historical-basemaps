@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Epeiros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Phoinike", "lat": 39.913118, "lon": 20.057154, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.057154, 39.913118 ] } },
+{ "type": "Feature", "properties": { "name": "Bouthrōtón", "lat": 39.745527, "lon": 20.020422, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.020422, 39.745527 ] } },
+{ "type": "Feature", "properties": { "name": "Kestria", "lat": 39.680339, "lon": 20.117681, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.117681, 39.680339 ] } },
+{ "type": "Feature", "properties": { "name": "Titana", "lat": 39.570663078300001, "lon": null, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.262231529699999, 39.570663078300001 ] } },
+{ "type": "Feature", "properties": { "name": "Photike", "lat": 39.482048, "lon": 20.496254, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.496254, 39.482048 ] } },
+{ "type": "Feature", "properties": { "name": "Elaiatis", "lat": 39.326423921299998, "lon": 20.589880349800001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.589880349800001, 39.326423921299998 ] } },
+{ "type": "Feature", "properties": { "name": "Pandosia", "lat": 39.27839455, "lon": 20.67768675, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.67768675, 39.27839455 ] } },
+{ "type": "Feature", "properties": { "name": "Ephyra", "lat": 39.243485259899998, "lon": 20.530689638799998, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.530689638799998, 39.243485259899998 ] } },
+{ "type": "Feature", "properties": { "name": "Torone", "lat": 39.518293438400001, "lon": 20.180208076900001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.180208076900001, 39.518293438400001 ] } },
+{ "type": "Feature", "properties": { "name": "Elina", "lat": 39.330291583200001, "lon": 20.294109389900001, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.294109389900001, 39.330291583200001 ] } },
+{ "type": "Feature", "properties": { "name": "Kassope", "lat": 39.145016, "lon": 20.675916, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.675916, 39.145016 ] } },
+{ "type": "Feature", "properties": { "name": "Ambrakía", "lat": 39.1549245, "lon": 20.9900925, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.9900925, 39.1549245 ] } },
+{ "type": "Feature", "properties": { "name": "Charadros", "lat": 39.206994, "lon": 20.877307, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.877307, 39.206994 ] } },
+{ "type": "Feature", "properties": { "name": "Ambrakos", "lat": 39.040906, "lon": 20.934123, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.934123, 39.040906 ] } },
+{ "type": "Feature", "properties": { "name": "Assos", "lat": 39.25, "lon": 20.75, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.75, 39.25 ] } },
+{ "type": "Feature", "properties": { "name": "Dodone", "lat": 39.546436271899999, "lon": 20.787731444799999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.787731444799999, 39.546436271899999 ] } },
+{ "type": "Feature", "properties": { "name": "Eurymenai", "lat": 39.630469, "lon": 20.919605, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.919605, 39.630469 ] } },
+{ "type": "Feature", "properties": { "name": "Passaron", "lat": 39.7330065, "lon": 20.752394, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 20.752394, 39.7330065 ] } }
+]
+}
