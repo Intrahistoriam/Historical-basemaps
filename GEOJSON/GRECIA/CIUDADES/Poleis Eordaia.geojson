@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Poleis Eordaia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arnisa", "lat": 40.645815, "lon": 21.700415, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.700415, 40.645815 ] } }
+]
+}
