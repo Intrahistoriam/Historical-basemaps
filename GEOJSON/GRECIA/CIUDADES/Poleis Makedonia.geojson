@@ -9,6 +9,9 @@
 { "type": "Feature", "properties": { "name": "Beroia", "lat": 40.522126666699997, "lon": 22.201492666699998, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.201492666699998, 40.522126666699997 ] } },
 { "type": "Feature", "properties": { "name": "Mieza", "lat": 40.644802, "lon": 22.122616, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.122616, 40.644802 ] } },
 { "type": "Feature", "properties": { "name": "Pydna", "lat": 40.397365285500001, "lon": 22.6167701197, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.6167701197, 40.397365285500001 ] } },
-{ "type": "Feature", "properties": { "name": "Edessa", "lat": 40.799718, "lon": 22.053972, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.053972, 40.799718 ] } }
+{ "type": "Feature", "properties": { "name": "Edessa", "lat": 40.799718, "lon": 22.053972, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.053972, 40.799718 ] } },
+{ "type": "Feature", "properties": { "name": "Methone", "lat": 40.4674726143, "lon": 22.5827487404, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.5827487404, 40.4674726143 ] } },
+{ "type": "Feature", "properties": { "name": "Europos", "lat": 40.886649720599998, "lon": 22.5552017304, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.5552017304, 40.886649720599998 ] } },
+{ "type": "Feature", "properties": { "name": "Chalastra", "lat": 40.704218, "lon": 22.781173, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.781173, 40.704218 ] } }
 ]
 }
