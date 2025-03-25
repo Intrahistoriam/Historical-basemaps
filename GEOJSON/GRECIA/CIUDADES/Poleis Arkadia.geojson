@@ -14,7 +14,7 @@
 { "type": "Feature", "properties": { "name": "Thelpousa", "lat": 37.710485008937503, "lon": 21.878843307495099, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.878843307495099, 37.710485008937503 ] } },
 { "type": "Feature", "properties": { "name": "Thyraion", "lat": 37.5014274988228, "lon": 22.124683856964101, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.124683856964101, 37.5014274988228 ] } },
 { "type": "Feature", "properties": { "name": "Typaneai", "lat": 37.505010794412598, "lon": 21.813633441924999, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.813633441924999, 37.505010794412598 ] } },
-{ "type": "Feature", "properties": { "name": "Megalopolis", "lat": null, "lon": null, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.126396162100001, 37.414271211 ] } },
+{ "type": "Feature", "properties": { "name": "Megalopolis", "lat": 37.414271211, "lon": 22.126396162100001, "notes": "Fundada por orden de Epanimondas el 368 aC." }, "geometry": { "type": "Point", "coordinates": [ 22.126396162100001, 37.414271211 ] } },
 { "type": "Feature", "properties": { "name": "Phigaleia", "lat": 37.39629, "lon": 21.839109, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.839109, 37.39629 ] } },
 { "type": "Feature", "properties": { "name": "Bassai", "lat": 37.429643945400002, "lon": 21.9003223731, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 21.9003223731, 37.429643945400002 ] } },
 { "type": "Feature", "properties": { "name": "Lykosoura", "lat": 37.38927255, "lon": 22.02996575, "notes": null }, "geometry": { "type": "Point", "coordinates": [ 22.02996575, 37.38927255 ] } },
